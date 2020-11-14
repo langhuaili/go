@@ -3,8 +3,8 @@ package lib
 import "fmt"
 
 type Woman struct {
-	name string
-	age int
+	Name string
+	Age int
 }
 func HoldOn()  {
 	fmt.Println("women I hold on")
